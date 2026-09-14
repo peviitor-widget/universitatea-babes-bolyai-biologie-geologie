@@ -7,14 +7,14 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:34.297Z",
+    "date": "2026-09-11T12:41:52.966Z",
     "status": "scraped",
     "tags": [
-      "Lucru in laborator",
-      "Interpretare date experimentale"
+      "Biochimie structurală",
+      "Lucru în echipă"
     ],
-    "matchPercentage": 85,
-    "reason": "Accepta absolventi de biologie fara experienta obligatorie; lucru in laborator medical, interpretare rezultate - potrivit ca prim job"
+    "matchPercentage": 65,
+    "reason": "Accepta absolventi fara experienta; cerinte: diploma licenta biologie/chimie, cunostinte de baza analize medicale, spirit de echipa"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3339372",
@@ -27,11 +27,11 @@
     "date": "2026-09-05T11:58:42.174Z",
     "status": "scraped",
     "tags": [
-      "Clasificare sistematica plante",
-      "Biologie"
+      "Determinare plante",
+      "Biologie generală"
     ],
-    "matchPercentage": 55,
-    "reason": "Companie fitofarmaceutica - potential legat de biologia plantelor si determinare sistematica, dar descriere insuficienta"
+    "matchPercentage": 60,
+    "reason": "Domeniul fitofarmacie utilizeaza competente de determinare clasificare plantelor si cunostinte de biologie"
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/biolog-biochimist-chimist/1983235",
@@ -44,11 +44,11 @@
     "date": "2026-09-05T11:51:28.061Z",
     "status": "scraped",
     "tags": [
-      "Genetica",
-      "Biochimie"
+      "Genetică generală",
+      "Lucrări laborator"
     ],
-    "matchPercentage": 70,
-    "reason": "Microbiologie, genetica, biologie in laborator central - competentele de biochimie, genetica si lucru laborator se potrivesc"
+    "matchPercentage": 60,
+    "reason": "Synevo angajeaza in Microbiologie, Genetie, Biologie - se potrivesc cu competentele de genetică si lucru de laborator"
   },
   {
     "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
@@ -61,11 +61,28 @@
     "date": "2026-09-05T11:46:23.938Z",
     "status": "scraped",
     "tags": [
-      "Analize chimice",
-      "Lucru in laborator"
+      "Biochimie structurală",
+      "Analize laborator"
     ],
-    "matchPercentage": 80,
-    "reason": "Laborator de analize - similar cu ELYTIS HOSPITAL; competentele de analize chimice, biochimie si lucru laborator se potrivesc bine"
+    "matchPercentage": 60,
+    "reason": "Laborator analize medicale, similar Elytis anterior - potrivit pentru absolventi"
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bucuresti-6-consultant-de-specialitate-in-cercetare/",
+    "title": "Consultant de specialitate în cercetare",
+    "company": "STARCKROM TEHNOLOGII SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T12:00:22.259Z",
+    "status": "scraped",
+    "tags": [
+      "Cercetare biologie",
+      "Comunicare științifică"
+    ],
+    "matchPercentage": 55,
+    "reason": "Cercetare la universitate agronomică - se potrivesc competentele de cercetare si comunicare stiintifica"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-agricol-statie-cercetare-alexandria",
@@ -78,11 +95,28 @@
     "date": "2026-09-05T11:54:54.650Z",
     "status": "scraped",
     "tags": [
-      "Clasificare plante",
-      "Cercetare"
+      "Determinare plante",
+      "Biologie generală"
     ],
     "matchPercentage": 65,
-    "reason": "Cercetare agricola la statie - potrivit avand in vedere cunostintele de biologie a plantelor si determinare sistematica; domeniul agricol e in aria mea de competenta"
+    "reason": "Cercetare agricola - potrivit cu competentele de clasificare plante si agricultura/silvicultura"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3348175",
+    "title": "CONSILIER/EXPERT/INSPECTOR/REFERENT/ECONOMIST ÎN ECONOMIE GENERALA",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti sectorul 6, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:54:04.426Z",
+    "status": "scraped",
+    "tags": [
+      "Protecția mediului",
+      "Analize chimice"
+    ],
+    "matchPercentage": 55,
+    "reason": "Institut de protectia mediului - economist/consilier; partial potrivit daca rolul include si aspecte de mediu"
   },
   {
     "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
@@ -95,11 +129,11 @@
     "date": "2026-09-05T11:47:09.369Z",
     "status": "scraped",
     "tags": [
-      "Protejarea mediului",
-      "Determinare sistematica"
+      "Protecția mediului",
+      "Cercetare biologie"
     ],
     "matchPercentage": 75,
-    "reason": "Monitorizare Dunare la Institutul de Protectie a Mediului - perfect pentru studenții de la Biologie si Geologie; conservarea biodiversitatii acvatice, determinare specii, analize de mediu"
+    "reason": "Monitorizare Dunare la Institutul de Protectia Mediului - perfect pentru studient de biologie cu competente de cercetare si protecția mediului"
   },
   {
     "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/2308",
@@ -112,11 +146,11 @@
     "date": "2026-09-05T11:47:09.369Z",
     "status": "scraped",
     "tags": [
-      "Protejarea mediului",
-      "Determinare sistematica"
+      "Protecția mediului",
+      "Cercetare biologie"
     ],
     "matchPercentage": 75,
-    "reason": "Identic cu jobul 21 - monitorizare Dunare, protectia mediului si conservarea biodiversitatii acvatice"
+    "reason": "Identic cu job 21 - monitorizare mediul acvatic, foarte potrivit profilului"
   },
   {
     "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
@@ -129,45 +163,79 @@
     "date": "2026-09-05T11:47:09.369Z",
     "status": "scraped",
     "tags": [
-      "Protectia mediului",
-      "Cercetare"
+      "Protecția mediului",
+      "Cercetare biologie"
     ],
     "matchPercentage": 70,
-    "reason": "Cercetator la Institutul de Protectie a Mediului - domeniul protectiei mediului se alinieaza cu pregatirea mea; posibile studii de biodiversitate si monitorizare"
+    "reason": "Cercetator la Institutul de Protectia Mediului - domeniu direct legat de biologie si protectia mediului"
   },
   {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-de-laborator-poliana",
-    "title": "Asistent de Laborator Poliana",
+    "url": "https://jobs.bunge.com/job/Traian-Laboratory-Assistant-%28Asistent-Laborator%29-Traian-Silo-Brai-817175/1418781833/",
+    "title": "Laboratory Assistant (Asistent Laborator) - Traian Silo",
+    "company": "BUNGE ROMANIA SRL",
+    "location": [
+      "Traian, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:40.908Z",
+    "status": "scraped",
+    "tags": [
+      "Analize chimice",
+      "Lucrări laborator"
+    ],
+    "matchPercentage": 50,
+    "reason": "Asistent laborator in industrie - utilizeaza competente de analize chimice si lucru de laborator"
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18145/tehnician-de-calitate-laborator",
+    "title": "Tehnician de Calitate - Laborator",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Ghimbav, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:15:14.039Z",
+    "status": "scraped",
+    "tags": [
+      "Analize chimice",
+      "Laborator biologie"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analize fizice și chimice în laborator — se suprapun cu competențele de analize chimice și biochimice; fără componentă de biologie"
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
+    "title": "Tehnician Laborator Microbiologie",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:08.832Z",
+    "status": "scraped",
+    "tags": [
+      "Microbiologie",
+      "Laborator biologie"
+    ],
+    "matchPercentage": 75,
+    "reason": "Tehnician microbiologie — aliniază direct cu competențele de lucru în laborator biologic și diagnostic de laborator"
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/registrator-medical-laborator-1",
+    "title": "Registrator Medical Laborator",
     "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:47.235Z",
+    "date": "2026-09-13T13:12:01.810Z",
     "status": "scraped",
     "tags": [
-      "Lucrări de laborator",
-      "Biochimie"
+      "Laborator biologie",
+      "Comunicare stiintifica"
     ],
-    "matchPercentage": 60,
-    "reason": "Rol de asistent in laborator medical, parte din competentele de laborator dar necesita aviz OBBCSSR"
-  },
-  {
-    "url": "https://bioclinica.ro/compania/cariere/asistent-medical-de-laborator-bucuresti",
-    "title": "Asistent medical de laborator",
-    "company": "BIOCLINICA SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:47.235Z",
-    "status": "scraped",
-    "tags": [
-      "Lucrări de laborator",
-      "Analize chimice"
-    ],
-    "matchPercentage": 55,
-    "reason": "Asistent laborator medical - competentele de laborator si biochimie sunt relevante"
+    "matchPercentage": 40,
+    "reason": "Rol administrativ în laborator medical; cunoștințele de biologie sunt utile dar postul este preponderent logistic"
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Coordonator-SSM-si-Protectia-Mediului",
@@ -177,14 +245,14 @@
       "Dudestii Noi, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:19.933Z",
+    "date": "2026-09-13T13:08:59.808Z",
     "status": "scraped",
     "tags": [
-      "Protectia mediului",
-      "Management de mediu"
+      "Protecția mediului",
+      "Lucru în echipă"
     ],
-    "matchPercentage": 55,
-    "reason": "Coordonator protectia mediului + SSM. Competentele mele de mediu si conservarea biodiversitatii sunt direct relevante, desi rolul presupune si cunostinte de protectia muncii pe care nu le am specializate."
+    "matchPercentage": 70,
+    "reason": "Environmental protection and workplace safety coordinator role directly relates to environmental protection and biodiversity conservation domain; biology knowledge is relevant for environmental impact assessments"
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Coordonato-SSM-și-protecția-mediului",
@@ -194,14 +262,14 @@
       "Dudestii Noi, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:19.933Z",
+    "date": "2026-09-13T13:08:59.808Z",
     "status": "scraped",
     "tags": [
-      "Protectia mediului",
-      "Management de mediu"
+      "Protecția mediului",
+      "Lucru în echipă"
     ],
-    "matchPercentage": 55,
-    "reason": "Identic - rol de protectia mediului si securitatea muncii. Pregatirea mea in biologie ofera o baza solida pentru partea de mediu."
+    "matchPercentage": 70,
+    "reason": "Same role as above - environmental protection coordination matches the environmental protection and biodiversity conservation domain of biology/geology studies"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3373505",
@@ -215,10 +283,10 @@
     "status": "scraped",
     "tags": [
       "Biotehnologii",
-      "Genetică"
+      "Genetică generală"
     ],
     "matchPercentage": 85,
-    "reason": "Cercetare în biotehnologie agricolă, aliniază cu competențele de biotehnologii, genetică și lucru în echipă multidisciplinară."
+    "reason": "Perfect aliniat: cercetare în biotehnologie agricolă, folosește competențe de cercetare, genetică, analize biochimice și literație digitală."
   },
   {
     "url": "https://www.leohr.ro/jobs/analist-microbiologie-responsabil-de-incercare/58/",
@@ -228,31 +296,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:46:43.726Z",
+    "date": "2026-09-13T13:12:08.832Z",
     "status": "scraped",
     "tags": [
       "Analize chimice",
       "Lucrări de laborator"
     ],
     "matchPercentage": 80,
-    "reason": "Análiză microbiologică în laborator, se potrivește cu competențele de analize chimice, lucrări de laborator și interpretare date experimentale."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
-    "title": "Tehnician Laborator Microbiologie",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:43.726Z",
-    "status": "scraped",
-    "tags": [
-      "Lucrări de laborator",
-      "Analize biochimice"
-    ],
-    "matchPercentage": 82,
-    "reason": "Tehnician de laborator microbiologie, aliniat direct cu competențele de lucru în laborator de biologie experimentală și analize biochimice."
+    "reason": "Rol de analist microbiologie, aliniat cu competențele de analize chimice, biochimice și lucru în laborator din planul de învățământ."
   },
   {
     "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
@@ -262,31 +313,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-07T14:01:41.081Z",
+    "date": "2026-09-13T13:12:08.832Z",
     "status": "scraped",
     "tags": [
       "Lucrări de laborator",
       "Analize chimice"
     ],
-    "matchPercentage": 82,
-    "reason": "Laborant în microbiologie, se potrivește cu competențele de lucrări de laborator în biologie experimentală și analize chimice."
-  },
-  {
-    "url": "https://multijobs.ro/job/profesor-de-biologie/5283",
-    "title": "Profesor de biologie",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Voluntari, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:39:57.187Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare științifică",
-      "Genetică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Predarea biologiei este aliniată cu cunoștințele mele din facultate, inclusiv clasificare sistematică, histologie, citologie și genetică."
+    "matchPercentage": 85,
+    "reason": "Rol de laborant microbiologie, folosește direct competențele de analize de laborator, biochimie și interpretarea datelor experimentale."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270180/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-colaborator-biologie",
@@ -299,11 +333,11 @@
     "date": "2026-09-04T12:43:03.532Z",
     "status": "scraped",
     "tags": [
-      "Comunicare științifică",
-      "Determinare sistematică"
+      "Determinare sistematică",
+      "Comunicare științifică"
     ],
-    "matchPercentage": 80,
-    "reason": "Predarea biologiei se aliniază cu cunoștințele de biologie, dar este mai degrabă pedagogic decât de cercetare/laborator."
+    "matchPercentage": 55,
+    "reason": "Poți preda biologie la meditații ca student; cerințele sunt mai reduse decât la un liceu"
   },
   {
     "url": "https://jobviewtrack.com/v2/eMlxmAb4mtgKstMEVUIh6c-OUX1anLTwX7Mp9Gbxmg2DvKpfaAzwe1UwypuZOEU1cv1G5U0ltLHj0tgZlx5VfT8cnKtShESJEXmEvdBhuTryyROMcRylNnyq4UJdpnTQW_2rdeX-MUMYc0cP-Unbsq0jQuvghPIQ5l22fjZRV5WPBiRJQPdXnz9S3t1uc6zFHzCLy9IA-nVhPFKy7uQzOPUJfhHu7XmHCmcfbBYfl4I",
@@ -316,11 +350,11 @@
     "date": "2026-08-29T13:40:22.361Z",
     "status": "scraped",
     "tags": [
-      "Comunicare științifică",
-      "Determinare sistematică"
+      "Determinare sistematică",
+      "Comunicare științifică"
     ],
-    "matchPercentage": 80,
-    "reason": "Identic cu jobul precedent, predarea biologiei folosește cunoștințele din planul de învățământ."
+    "matchPercentage": 55,
+    "reason": "Poți preda biologie la meditații ca student; locația București ar putea fi un dezavantaj"
   },
   {
     "url": "https://www.iajob.ro/locuri-de-munca/a7xg2j",
@@ -330,14 +364,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:09.918Z",
+    "date": "2026-09-12T12:03:37.440Z",
     "status": "scraped",
     "tags": [
       "Biochimie structurală",
       "Analize chimice"
     ],
-    "matchPercentage": 35,
-    "reason": "Industria alimentară are o oarecare legătură cu biologia (biochimie, microbiologie), dar este mai degrabă inginerie decât cercetare."
+    "matchPercentage": 60,
+    "reason": "Industria alimentară se suprapune parțial cu biotehnologiile și chimia alimentară; ai cunoștințe de biochimie și analize de laborator"
   },
   {
     "url": "https://www.iajob.ro/locuri-de-munca/tjliys",
@@ -347,14 +381,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:43:50.210Z",
+    "date": "2026-09-11T12:38:52.162Z",
     "status": "scraped",
     "tags": [
       "Biochimie structurală",
       "Analize chimice"
     ],
-    "matchPercentage": 35,
-    "reason": "Similar jobului 21, industria alimentară are tangențe cu biologia prin control calitate și microbiologie alimentară."
+    "matchPercentage": 60,
+    "reason": "Inginerie alimentară entry level; competențele tale de biochimie și chimie sunt relevante"
   },
   {
     "url": "https://www.iajob.ro/locuri-de-munca/o1flb6",
@@ -370,126 +404,7 @@
       "Biochimie structurală",
       "Analize chimice"
     ],
-    "matchPercentage": 35,
-    "reason": "Alte anunțuri pentru ingineri în industrie alimentară. Competențele de biochimie și analize de laborator pot fi utile."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Expert-Tratarea-Apei-Remote",
-    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:51.415Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 35,
-    "reason": "Tratarea apei implică chimie aplicată, dar rolul este de vânzări, nu de laborator. Competențele de chimie analitică oferă o bază parțială."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Expert-Tratarea-Apei",
-    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:51.415Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 35,
-    "reason": "Duplicat. Vânzări în tratarea apei cu bază chimică parțială."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Remote-Expert-Tratarea-Apei",
-    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:04.939Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 35,
-    "reason": "Duplicat. Vânzări în tratarea apei cu bază chimică parțială."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Reprezentant-Vanzari-Expert-in-Tratarea-Apei",
-    "title": "Reprezentant Vanzari – Expert in Tratarea Apei (Studii de Chimie)",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-08T12:39:54.725Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 35,
-    "reason": "Duplicat. Vânzări în tratarea apei cu bază chimică parțială."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/reprezentatvanzariexpertchimic",
-    "title": "Reprezentant Vanzari – Expert in Tratarea Apei",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-08T12:38:30.371Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 30,
-    "reason": "Tratarea apei are tangență cu chimia, dar rolul este preponderent comercial."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/5g-b1vIJ3NGq4zq4cJpef1WM_Ha6YNIpuk5Nm3YcIiunDyvlibOzjaW59vurNyD8QMt4Vr9fSJvRRsHTfr3ULMnMybtMEUNQ_1lDAFCqJNh__UUW1Zr_RFQnMIo6dNvHAFoc9TteM4w4mYVDeJOktuTMNQ3w7_yLhn6cZivVRq_UprT3OFqIotKpA0I3nBLC31gxfCf7TSGf4m4Z1BglUYeca4yxM7WDTRtrfJq4Mt4",
-    "title": "Operator La Tratarea Apei Tehnologice",
-    "company": "TERMOFICARE ORADEA S.A.",
-    "location": [
-      "Oradea, Bihor, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:50:11.276Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 40,
-    "reason": "Manipulare substanțe chimice în tratarea apei; competențele de chimie generală și organice sunt relevante. Fără studii de inginerie chimică totuși."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3373205",
-    "title": "OPERATOR LA TRATAREA APEI TEHNOLOGICE",
-    "company": "TERMOFICARE ORADEA S.A.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:44:01.808Z",
-    "status": "scraped",
-    "tags": [
-      "Analize chimice",
-      "Biochimie structurală"
-    ],
-    "matchPercentage": 40,
-    "reason": "Exploatare echipamente tratare apă cu manipulare substanțe chimice. Competențele de chimie oferă o bază, dar lipsa pregătirii tehnice specifice limitează potrivirea."
+    "matchPercentage": 60,
+    "reason": "Inginerie alimentară; profilul tău de biologie cu competențe în biochimie și chimie se potrivește"
   }
 ]
