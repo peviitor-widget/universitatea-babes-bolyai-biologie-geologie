@@ -1,39 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396668",
-    "title": "ASISTENT DE CERCETARE ÎN INGINERIA GENETICA",
-    "company": "DCOCOȘUL DE ORO S.R.L.",
-    "location": [
-      "Rachiti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T13:53:25.504Z",
-    "status": "scraped",
-    "tags": [
-      "analiza genetica",
-      "laborator biologie"
-    ],
-    "matchPercentage": 92,
-    "reason": "Asistenta de cercetare in inginerie genetica foloseste direct analiza genetica, mecanismele de ereditate si tehnicile de laborator, cu zero experienta ceruta."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3395228",
-    "title": "BIOLOG",
-    "company": "SISTEMUL DE TRANSPORT RUTIER S.R.L.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:12:48.104Z",
-    "status": "scraped",
-    "tags": [
-      "microscopie optică",
-      "nevertebrate"
-    ],
-    "matchPercentage": 90,
-    "reason": "Prelevarea și sortarea probelor de zoobentos, identificarea și numărarea speciilor la microscop și întocmirea rapoartor de încercări biologice folosesc direct competențele de identificare a nevertebratelor, microscopie și documentare de teren, fără experiență prealabilă."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3392453",
     "title": "ASISTENT DE CERCETARE ÎN BIOLOGIE",
     "company": "ICD PROGRESS DEVELOPMENT S.R.L.",
@@ -45,10 +11,10 @@
     "status": "scraped",
     "tags": [
       "microscopie optică",
-      "rapoarte lucru"
+      "echipă de cercetare"
     ],
-    "matchPercentage": 88,
-    "reason": "Asistent de cercetare în biologie în cadrul unui laborator de cercetare-dezvoltare, fără experiență cerută, corespunde exact activității de cercetare din planul de învățământ."
+    "matchPercentage": 92,
+    "reason": "Asistent de cercetare în biologie, fără experiență cerută - potrivire directă cu competențele de laborator și cercetare."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396646",
@@ -58,14 +24,31 @@
       "Rachiti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T13:53:25.504Z",
+    "date": "2026-10-05T16:52:37.483Z",
     "status": "scraped",
     "tags": [
-      "laborator chimie",
-      "cercetare biologie"
+      "reacții biochimice",
+      "chimie organică"
     ],
-    "matchPercentage": 88,
-    "reason": "Asistent de cercetare în biologie-chimie la nivel universitar, fără experiență cerută, cu activitate de laborator și analize biologice/chimice."
+    "matchPercentage": 90,
+    "reason": "Asistent de cercetare în biologie-chimie, level entry (0 ani experiență) - folosește direct competențele de laborator și biochimie."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396668",
+    "title": "ASISTENT DE CERCETARE ÎN INGINERIA GENETICA",
+    "company": "DCOCOȘUL DE ORO S.R.L.",
+    "location": [
+      "Rachiti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:52:37.483Z",
+    "status": "scraped",
+    "tags": [
+      "analiza genetică",
+      "echipă de cercetare"
+    ],
+    "matchPercentage": 86,
+    "reason": "Asistent de cercetare în ingineria genetică, fără experiență cerută, folosește direct analiza genetică și munca în echipă de cercetare."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396176",
@@ -78,147 +61,45 @@
     "date": "2026-10-04T13:47:11.586Z",
     "status": "scraped",
     "tags": [
-      "literatura digitala",
-      "colectare probe"
-    ],
-    "matchPercentage": 88,
-    "reason": "Rol de cercetare in ecologie si protectia mediului: analiza documentara a literaturii stiintifice, colectarea datelor si activitati de teren, la nivel de asistent fara experienta."
-  },
-  {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:48.920Z",
-    "status": "scraped",
-    "tags": [
-      "ecologie si mediu",
-      "documentatie teren"
+      "literatură digitală",
+      "documentație de teren"
     ],
     "matchPercentage": 86,
-    "reason": "Cercetator in protectia mediului (grad ACS/entry) folosește direct ecologia, analiza probelor si documentatia de teren."
+    "reason": "Cercetare ecologică cu revizuiri de literatură, colectare de date și activități de teren, la nivel de master fără experiență, potrivit direct competențelor de ecologie și documentație științifică."
   },
   {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/specialist-laborator-poliana",
-    "title": "Specialist laborator Poliana",
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/biolog-laboratoare-regina-maria-microbiologie",
+    "title": "Biolog Laboratoare Regina Maria Microbiologie",
     "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:10:48.243Z",
+    "date": "2026-10-05T16:57:57.855Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analiza genetică"
+      "microbiologie",
+      "laborator"
     ],
-    "matchPercentage": 80,
-    "reason": "Cere explicit licențiat în biologie cu certificare OBBCSSR, activitate în laborator de analize medicale la nivel de specialist cu experiență redusă."
+    "matchPercentage": 85,
+    "reason": "Relevant pentru microbiologie si analize de laborator, cu nivel apropiat de junior (minimum 6 luni)."
   },
   {
-    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
-    "title": "Tehnician Laborator Microbiologie",
-    "company": "LEOHR S.R.L.",
+    "url": "https://multijobs.ro/job/tehnician-analist-chimie-recrutam-pentru-clientul-nostru/2671",
+    "title": "Tehnician/Analist Chimie – Recrutăm pentru Clientul nostru",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T13:52:06.719Z",
+    "date": "2026-10-05T17:09:25.268Z",
     "status": "scraped",
     "tags": [
-      "laborator biologie",
-      "microscopie optica"
+      "laborator chimie",
+      "reacții biochimice"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician de laborator microbiologie lucreaza cu metode de laborator si analiza probelor biologice, la nivel entry, insa descrierea lipsea si nu pot confirma cerintele reale."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
-    "title": "Responsabil activitati monitorizare Dunare",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:48.920Z",
-    "status": "scraped",
-    "tags": [
-      "ecologie si mediu",
-      "colectare probe"
-    ],
-    "matchPercentage": 68,
-    "reason": "Monitorizarea Dunarii implica colectarea probelor, analiza si raportare, dar pozitia de responsabil presupune experienta."
-  },
-  {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-laborator-3",
-    "title": "Asistent Medical Laborator",
-    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:11:28.284Z",
-    "status": "scraped",
-    "tags": [
-      "microscopie optică",
-      "instrumente laborator"
-    ],
-    "matchPercentage": 66,
-    "reason": "Asistent de laborator medical cu prelucrarea probelor biologice și utilizarea aparatului de laborator, potrivit ca prim loc de intrare în carieră."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
-    "title": "Laborant Microbiologie",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T13:52:06.719Z",
-    "status": "scraped",
-    "tags": [
-      "laborator biologie",
-      "analiza citologica"
-    ],
-    "matchPercentage": 65,
-    "reason": "Laborant de microbiologie se incadreaza in laboratoarele de analiza biologica la nivel incepator, potrivire partiala deoarece detaliile postului nu sunt publicate."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/biolog-biochimist-chimist-in-laborator-3",
-    "title": "Biolog - biochimist - chimist in laborator",
-    "company": "LABORETICA SRL",
-    "location": [
-      "Strada Ziduri Intre Vii 19, Complex Ghica Plaza Bucuresti, sector 2, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:22.982Z",
-    "status": "scraped",
-    "tags": [
-      "reacții biochimice",
-      "microscopie optică"
-    ],
-    "matchPercentage": 62,
-    "reason": "Poziție de laborator cu profil biologie-biochimie-chimie, compatibilă cu pregătirea în biochimie, chimie generală și organică și cu interpretarea reacțiilor biochimice."
-  },
-  {
-    "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist-timisoara",
-    "title": "Biolog/Chimist/Biochimist",
-    "company": "BIOCLINICA SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:20:51.906Z",
-    "status": "scraped",
-    "tags": [
-      "analize biochimice",
-      "control calitate"
-    ],
-    "matchPercentage": 62,
-    "reason": "Rolul de biolog/biochimist într-o rețea de laboratoare medicale se încadrează în laboratoare de analiză biologică și chimică, deși activitatea este predominant pe analizatoare automate."
+    "matchPercentage": 82,
+    "reason": "Tehnician/Analist Chimie potrivește direct competențele de lucru în laborator de chimie și analiza probelor."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3401441",
@@ -228,30 +109,131 @@
       "Municipiul vatra dornei, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:17:42.273Z",
+    "date": "2026-10-05T16:59:45.956Z",
     "status": "scraped",
     "tags": [
-      "prelucrare probe",
-      "analize biochimice"
+      "microscopie",
+      "laborator"
     ],
-    "matchPercentage": 62,
-    "reason": "Post de biolog în laborator spitalicesc, cu domeniu parțial compatibil cu analiza probelor biologice, fără experiență prealabilă cerută."
+    "matchPercentage": 80,
+    "reason": "Post de Biolog cu 0 ani experienta, potrivit pentru absolvent, in domeniul analizei biologice."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/biolog-biochimist-chimist-laborator-focsani",
-    "title": "Biolog, Biochimist, Chimist - Laborator Focsani",
-    "company": "MEDCENTER SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/biolog-biochimist-chimist-in-laborator-3",
+    "title": "Biolog - biochimist - chimist in laborator",
+    "company": "LABORETICA SRL",
     "location": [
-      "Focsani, Romania"
+      "Strada Ziduri Intre Vii 19, Complex Ghica Plaza Bucuresti, sector 2, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:17:06.897Z",
+    "date": "2026-10-05T16:58:57.509Z",
     "status": "scraped",
     "tags": [
-      "analize biochimice",
-      "instrumente laborator"
+      "biochimie",
+      "laborator"
+    ],
+    "matchPercentage": 80,
+    "reason": "Pozitie directa pentru Biolog/Biochimist/Chimist in laborator, nivel entry-level probabil."
+  },
+  {
+    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
+    "title": "Biolog -Chimist / Laborator Analize",
+    "company": "ELYTIS HOSPITAL HOPE SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:55:38.982Z",
+    "status": "scraped",
+    "tags": [
+      "biochimie",
+      "laborator"
+    ],
+    "matchPercentage": 80,
+    "reason": "Post de Biolog-Chimist in laborator de analize, relevant pentru competentele de specialitate."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
+    "title": "Tehnician Laborator Microbiologie",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:55:57.557Z",
+    "status": "scraped",
+    "tags": [
+      "microscopie optică",
+      "instrumente de laborator"
+    ],
+    "matchPercentage": 74,
+    "reason": "Tehnician în laborator de microbiologie: sarcinile de analiză și preparare a probelor folosesc direct competențele de microscopie și lucru de laborator, la nivel de intrare în carieră."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
+    "title": "Laborant Microbiologie",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:55:57.557Z",
+    "status": "scraped",
+    "tags": [
+      "instrumente de laborator",
+      "microscopie optică"
+    ],
+    "matchPercentage": 73,
+    "reason": "Laborant în microbiologie, rol entry-level de executare a analizelor de laborator, potrivit cu tehnicile de analiză biologică învățate în facultate."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272267/Bosch-Romania/Working-Student-Laboratory-Support-(Chemical-Testing)",
+    "title": "Working Student Laboratory Support (Chemical Testing)",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:07:38.840Z",
+    "status": "scraped",
+    "tags": [
+      "laborator chimie"
+    ],
+    "matchPercentage": 68,
+    "reason": "Suport de laborator pentru teste chimice la nivel de student, potrivire parțială cu competența de lucru în laborator de chimie."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270180/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-colaborator-biologie",
+    "title": "Profesor colaborator biologie",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:30:17.879Z",
+    "status": "scraped",
+    "tags": [
+      "taxoni vegetali",
+      "analiză genetică"
+    ],
+    "matchPercentage": 62,
+    "reason": "Colaborare la predarea biologiei pentru student/absolvent - nivelul e potrivit, dar domeniul e educațional, nu de cercetare/laborator."
+  },
+  {
+    "url": "https://multijobs.ro/job/profesor-de-biologie/5283",
+    "title": "Profesor de biologie",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Voluntari, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:56:56.295Z",
+    "status": "scraped",
+    "tags": [
+      "taxoni vegetali",
+      "analiză genetică"
     ],
     "matchPercentage": 60,
-    "reason": "Poziție de laborator clinic cu profil biologie/biochimie/chimie, potrivită pregătirii în biochimie și în folosirea instrumentelor de laborator, domeniu doar parțial comun cu specializarea."
+    "reason": "Predarea biologiei folosește direct cunoștințele de specialitate (taxonomie, genetică, ecologie), dar este un rol educațional, nu de laborator/cercetare."
   }
 ]
