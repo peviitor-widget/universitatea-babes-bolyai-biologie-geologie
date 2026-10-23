@@ -11,83 +11,11 @@
     "date": "2026-10-17T12:15:39.695Z",
     "status": "scraped",
     "tags": [
-      "biochimie",
-      "laborator chimie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Asistent de cercetare în biologie-chimie, fără experiență, cu aplicare directă în laborator."
-  },
-  {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
-    "title": "Biolog/ Biochimist/ Chimist",
-    "company": "SYNEVO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:09:53.039Z",
-    "status": "scraped",
-    "tags": [
-      "laborator chimie",
-      "biochimie"
+      "cercetare",
+      "chimie generala"
     ],
     "matchPercentage": 88,
-    "reason": "Laborator de chimie cu nivel debutant, cu aplicare directă a competențelor de laborator."
-  },
-  {
-    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
-    "title": "Biolog Chimist/ Biochimist",
-    "company": "ELYTIS HOSPITAL SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:44.649Z",
-    "status": "scraped",
-    "tags": [
-      "biochimie",
-      "analize de laborator"
-    ],
-    "matchPercentage": 88,
-    "reason": "Analize medicale pentru absolvenți fără experiență, în domeniul biologiei și chimiei."
-  },
-  {
-    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
-    "title": "Biolog -Chimist / Laborator Analize",
-    "company": "ELYTIS HOSPITAL HOPE SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:55.318Z",
-    "status": "scraped",
-    "tags": [
-      "analize de laborator",
-      "microscopie optică"
-    ],
-    "matchPercentage": 86,
-    "reason": "Laborator de analize cu post de biolog-chimist, potrivit pentru nivelul de început."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396668",
-    "title": "ASISTENT DE CERCETARE ÎN INGINERIA GENETICA",
-    "company": "DCOCOȘUL DE ORO S.R.L.",
-    "location": [
-      "Rachiti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:39.695Z",
-    "status": "scraped",
-    "tags": [
-      "genetică",
-      "biologie moleculară"
-    ],
-    "matchPercentage": 85,
-    "reason": "Asistent cercetare în inginerie genetică, entry-level, folosește direct competențele de genetică și biologie moleculară."
+    "reason": "Asistent de cercetare in biologie-chimie, fara experienta si cu cerinte direct relevante."
   },
   {
     "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
@@ -101,29 +29,11 @@
     "date": "2026-10-17T12:05:24.546Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "instrumente de laborator"
+      "analiză biologică",
+      "instrumente laborator"
     ],
-    "matchPercentage": 85,
-    "reason": "Tehnicianul de laborator microbiologie implică lucru practic cu probe, culturi și echipamente de laborator."
-  },
-  {
-    "url": "https://www.medlife.ro/cariere/job-apply/9190",
-    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
-    "company": "MED LIFE SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:16:25.977Z",
-    "status": "scraped",
-    "tags": [
-      "biochimie",
-      "analize de laborator"
-    ],
-    "matchPercentage": 82,
-    "reason": "Post de biolog/biochimist în laborator spitalicesc, potrivit pentru absolvent."
+    "matchPercentage": 88,
+    "reason": "Tehnicianul de laborator microbiologie utilizează direct tehnici de laborator și analiză biologică."
   },
   {
     "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
@@ -137,11 +47,11 @@
     "date": "2026-10-17T12:05:24.546Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "instrumente de laborator"
+      "analiză biologică",
+      "instrumente laborator"
     ],
-    "matchPercentage": 82,
-    "reason": "Laborantul de microbiologie presupune manipularea probelor și analize biologice de laborator."
+    "matchPercentage": 88,
+    "reason": "Laborantul microbiolog desfășoară activități directe de laborator pe material biologic."
   },
   {
     "url": "https://www.medlife.ro/cariere/job-apply/14233",
@@ -152,50 +62,50 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-21T11:16:25.977Z",
+    "date": "2026-10-22T11:15:11.302Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analize biologice"
+      "analiza biologica",
+      "microscopie optica"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de biolog într-o rețea de laboratoare medicale, cu activitate directă de analiză biologică."
+    "matchPercentage": 85,
+    "reason": "Post de biolog intr-un laborator medical, potrivit pentru absolventi si care foloseste competentele de analiza biologica."
   },
   {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-imunologie/",
-    "title": "Biolog/ Biochimist: dep. Imunologie",
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
+    "title": "Biolog/ Biochimist/ Chimist",
     "company": "SYNEVO ROMANIA SRL",
     "location": [
       "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-21T11:09:53.039Z",
+    "date": "2026-10-22T11:09:49.145Z",
     "status": "scraped",
     "tags": [
-      "biochimie",
-      "microscopie optică"
+      "chimie generala",
+      "analiza biologica"
     ],
-    "matchPercentage": 80,
-    "reason": "Departament de imunologie pentru debutanți și specialiști, relevant pentru analizele biologice."
+    "matchPercentage": 85,
+    "reason": "Synevo recruteaza biologi/biochimisti debutanti pentru laboratorul de chimie, nivel si domeniu potrivite."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3409979",
-    "title": "BIOLOG",
-    "company": "CENTRUL MEDICAL UNIREA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396668",
+    "title": "ASISTENT DE CERCETARE ÎN INGINERIA GENETICA",
+    "company": "DCOCOȘUL DE ORO S.R.L.",
     "location": [
-      "Cluj-napoca",
+      "Rachiti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:17:56.912Z",
+    "date": "2026-10-17T12:15:39.695Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analize biologice"
+      "analiză genetică",
+      "tehnici de laborator"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de biolog cu experiență sub trei ani, în domeniul analizelor de laborator."
+    "matchPercentage": 85,
+    "reason": "Asistent de cercetare în inginerie genetică, fără experiență necesară, folosind direct competențele de genetică și laborator."
   },
   {
     "url": "https://www.leohr.ro/jobs/analist-microbiologie-responsabil-de-incercare/58/",
@@ -210,10 +120,82 @@
     "status": "scraped",
     "tags": [
       "microscopie optică",
-      "instrumente de laborator"
+      "instrumente laborator"
     ],
-    "matchPercentage": 80,
-    "reason": "Analistul de microbiologie lucrează direct cu probe biologice și tehnici de laborator potrivite formării tale."
+    "matchPercentage": 85,
+    "reason": "Analistul de microbiologie lucrează direct cu probe biologice, microscopie și instrumente de laborator."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analist-chimie-recrutam-pentru-clientul-nostru/2671",
+    "title": "Tehnician/Analist Chimie – Recrutăm pentru Clientul nostru",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:07.123Z",
+    "status": "scraped",
+    "tags": [
+      "lucru laborator chimie",
+      "instrumente laborator"
+    ],
+    "matchPercentage": 85,
+    "reason": "Tehnicianul/analistul de chimie lucrează direct în laborator cu tehnici și instrumente analitice."
+  },
+  {
+    "url": "https://www.medlife.ro/cariere/job-apply/9190",
+    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
+    "company": "MED LIFE SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-22T11:15:11.302Z",
+    "status": "scraped",
+    "tags": [
+      "biochimie",
+      "analiza biologica"
+    ],
+    "matchPercentage": 82,
+    "reason": "Post de biolog/biochimist in laborator spitalicesc, direct relevant pentru competentele de biochimie si analiza."
+  },
+  {
+    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
+    "title": "Biolog -Chimist / Laborator Analize",
+    "company": "ELYTIS HOSPITAL HOPE SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:55.318Z",
+    "status": "scraped",
+    "tags": [
+      "chimie generala",
+      "analiza biologica"
+    ],
+    "matchPercentage": 82,
+    "reason": "Biolog-chimist in laborator de analize, folosind direct competentele de chimie si analiza biologica."
+  },
+  {
+    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
+    "title": "Biolog Chimist/ Biochimist",
+    "company": "ELYTIS HOSPITAL SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:44.649Z",
+    "status": "scraped",
+    "tags": [
+      "biochimie",
+      "analiza biologica"
+    ],
+    "matchPercentage": 82,
+    "reason": "Post entry-level pentru absolventi de biologie/chimie in laborator de analize medicale."
   },
   {
     "url": "https://www.medlife.ro/cariere/job-apply/9936",
@@ -224,50 +206,50 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-21T11:16:25.977Z",
+    "date": "2026-10-22T11:15:11.302Z",
     "status": "scraped",
     "tags": [
-      "biochimie",
-      "microscopie optică"
+      "analiza biologica",
+      "instrumente laborator"
     ],
-    "matchPercentage": 78,
-    "reason": "Laborator de imunologie care folosește cunoștințe de biologie, biochimie și tehnici de laborator."
+    "matchPercentage": 80,
+    "reason": "Laborator de imunologie ce solicita pregatire in biologie si tehnici de laborator relevante."
   },
   {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
-    "title": "Biolog/ Biochimist: dep. Microbiologie",
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-imunologie/",
+    "title": "Biolog/ Biochimist: dep. Imunologie",
     "company": "SYNEVO ROMANIA SRL",
     "location": [
       "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-21T11:09:53.039Z",
+    "date": "2026-10-22T11:09:49.145Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "instrumente de laborator"
+      "analiza biologica",
+      "instrumente laborator"
     ],
-    "matchPercentage": 74,
-    "reason": "Laborator de microbiologie, cu potrivire parțială prin microscopie și tehnici biologice."
+    "matchPercentage": 80,
+    "reason": "Post de biolog/biochimist in imunologie, cu aplicare directa a competentelor de laborator biologic."
   },
   {
-    "url": "https://affidearomania.recruitee.com/o/biologbiochimist-ploiesti",
-    "title": "Biolog/biochimist - Ploiesti",
-    "company": "AFFIDEA ROMANIA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3409979",
+    "title": "BIOLOG",
+    "company": "CENTRUL MEDICAL UNIREA SRL",
     "location": [
-      "Ploiesti",
+      "Cluj-napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:44.561Z",
+    "date": "2026-10-17T12:17:56.912Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "instrumente de laborator"
+      "analiza biologica",
+      "microscopie optica"
     ],
-    "matchPercentage": 74,
-    "reason": "Laborator medical cu sarcini de microbiologie și microscopie, cu experiență minimă de un an."
+    "matchPercentage": 78,
+    "reason": "Post de biolog cu experienta sub 3 ani, relevant pentru domeniul biologic."
   },
   {
     "url": "https://affidearomania.recruitee.com/o/biolog-bacteriolog-valcea",
@@ -281,28 +263,100 @@
     "date": "2026-10-17T12:15:44.561Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analize biologice"
+      "microscopie optica",
+      "analiza biologica"
     ],
-    "matchPercentage": 72,
-    "reason": "Laborator de bacteriologie, cu potrivire parțială și experiență doar ca avantaj."
+    "matchPercentage": 78,
+    "reason": "Biolog-bacteriolog in laborator, relevant prin tehnici de analiza si identificare microscopica."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419324",
-    "title": "Inginer tehnolog în protecția mediului",
-    "company": "OIL TERMINAL SA",
+    "url": "https://affidearomania.recruitee.com/o/biologbiochimist-ploiesti",
+    "title": "Biolog/biochimist - Ploiesti",
+    "company": "AFFIDEA ROMANIA SRL",
     "location": [
-      "Constanta",
+      "Ploiesti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:38.251Z",
+    "date": "2026-10-17T12:15:44.561Z",
     "status": "scraped",
     "tags": [
-      "ecologie",
-      "mediu"
+      "microscopie optica",
+      "analiza biologica"
     ],
-    "matchPercentage": 65,
-    "reason": "Inginer protecția mediului entry-level, parțial relevant pentru ecologie și biologia mediului."
+    "matchPercentage": 76,
+    "reason": "Biolog/biochimist in laborator de analize, cu tehnici de microscopie si microbiologie cerute."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
+    "title": "Biolog/ Biochimist: dep. Microbiologie",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-22T11:09:49.145Z",
+    "status": "scraped",
+    "tags": [
+      "microscopie optica",
+      "analiza biologica"
+    ],
+    "matchPercentage": 75,
+    "reason": "Post de laborator in microbiologie, potrivit partial prin competentele de microscopie si analiza biologica."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-dep-anatomie-patologica/",
+    "title": "Asistent medical de laborator",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-22T11:09:49.144Z",
+    "status": "scraped",
+    "tags": [
+      "histologie",
+      "microscopie optică"
+    ],
+    "matchPercentage": 72,
+    "reason": "Laborator histopatologic, cu histologie, microscopie și manipulare de probe biologice, la nivel de intrare."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
+    "title": "Tehnician Laborator",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "analize de laborator",
+      "biochimie"
+    ],
+    "matchPercentage": 66,
+    "reason": "Tehnician de laborator cu studii de biologie/chimie acceptate, folosind analize fizico-chimice și instrumente de laborator, deși rolul este închis."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:26.529Z",
+    "status": "scraped",
+    "tags": [
+      "chimie",
+      "instrumente de laborator"
+    ],
+    "matchPercentage": 62,
+    "reason": "Analist control calitate în laborator analitic, cu calibrare echipamente și chimie aplicată, potrivire parțială pe competențele de laborator."
   }
 ]
