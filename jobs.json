@@ -1,57 +1,39 @@
 [
   {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
-    "title": "Biolog/ Biochimist/ Chimist",
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
+    "title": "Biolog/ Biochimist: dep. Microbiologie",
     "company": "SYNEVO ROMANIA SRL",
     "location": [
       "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:00:07.868Z",
+    "date": "2026-10-24T10:16:59.216Z",
     "status": "scraped",
     "tags": [
-      "reacții biochimice",
-      "instrumente de laborator"
+      "microbiologie",
+      "bacteriologie"
     ],
-    "matchPercentage": 90,
-    "reason": "Post de biolog/biochimist/chimist pentru debutanți în departamentul de chimie al unui laborator de analize."
+    "matchPercentage": 95,
+    "reason": "Foarte relevant pentru microbiologie"
   },
   {
-    "url": "https://www.medlife.ro/cariere/job-apply/9190",
-    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
+    "url": "https://www.medlife.ro/cariere/job-apply/14233",
+    "title": "Biolog",
     "company": "MED LIFE SA",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:06:55.276Z",
+    "date": "2026-10-24T10:23:15.936Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "reacții biochimice"
+      "laborator",
+      "analize"
     ],
-    "matchPercentage": 88,
-    "reason": "Post de biolog/biochimist într-un laborator spitalicesc, cu activitate directă de analiză biologică și biochimică."
-  },
-  {
-    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
-    "title": "Biolog Chimist/ Biochimist",
-    "company": "ELYTIS HOSPITAL SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:44.649Z",
-    "status": "scraped",
-    "tags": [
-      "reacții biochimice",
-      "analize biologice"
-    ],
-    "matchPercentage": 88,
-    "reason": "Post de biolog chimist/biochimist pentru absolvenți, fără experiență obligatorie, în laborator de analize medicale."
+    "matchPercentage": 90,
+    "reason": "Activitate specifică laboratorului medical"
   },
   {
     "url": "https://www.medlife.ro/cariere/job-apply/9936",
@@ -62,14 +44,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:06:55.275Z",
+    "date": "2026-10-24T10:23:15.936Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "reacții biochimice"
+      "imunologie",
+      "laborator"
     ],
-    "matchPercentage": 85,
-    "reason": "Laborator de imunologie cu activitate de analiză biologică potrivită competențelor de laborator."
+    "matchPercentage": 90,
+    "reason": "Post direct legat de imunologie de laborator"
+  },
+  {
+    "url": "https://www.medlife.ro/cariere/job-apply/9190",
+    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
+    "company": "MED LIFE SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:23:15.936Z",
+    "status": "scraped",
+    "tags": [
+      "laborator",
+      "analize"
+    ],
+    "matchPercentage": 90,
+    "reason": "Activitate de laborator în domeniul biologic"
   },
   {
     "url": "https://www.synevo.ro/cariere/biolog-biochimist-imunologie/",
@@ -80,32 +80,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:00:07.868Z",
+    "date": "2026-10-24T10:16:59.216Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "reacții biochimice"
+      "imunologie",
+      "laborator"
     ],
-    "matchPercentage": 85,
-    "reason": "Post de biolog/biochimist în imunologie, cu activitate de laborator relevantă pentru profilul absolventului."
-  },
-  {
-    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
-    "title": "Biolog -Chimist / Laborator Analize",
-    "company": "ELYTIS HOSPITAL HOPE SRL",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:55.318Z",
-    "status": "scraped",
-    "tags": [
-      "reacții biochimice",
-      "instrumente de laborator"
-    ],
-    "matchPercentage": 85,
-    "reason": "Post de biolog-chimist în laboratorul de analize, cu sarcini directe de analiză biologică și chimică."
+    "matchPercentage": 90,
+    "reason": "Post direct legat de imunologie"
   },
   {
     "url": "https://affidearomania.recruitee.com/o/biologbiochimist-ploiesti",
@@ -119,11 +101,11 @@
     "date": "2026-10-17T12:15:44.561Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analize biologice"
+      "microbiologie",
+      "parazitologie"
     ],
-    "matchPercentage": 85,
-    "reason": "Post de biolog/biochimist în laborator de analize medicale, cu tehnici de microscopie și microbiologie relevante."
+    "matchPercentage": 90,
+    "reason": "Foarte relevant pentru microbiologie și parazitologie"
   },
   {
     "url": "https://affidearomania.recruitee.com/o/biolog-bacteriolog-valcea",
@@ -137,101 +119,11 @@
     "date": "2026-10-17T12:15:44.561Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analize biologice"
+      "bacteriologie",
+      "microbiologie"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de biolog-bacteriolog cu prelucrarea probelor biologice și investigații de laborator potrivite competențelor."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
-    "title": "Tehnician Laborator",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
-    "status": "scraped",
-    "tags": [
-      "analize laborator",
-      "prelevare probe"
-    ],
-    "matchPercentage": 78,
-    "reason": "Tehnician de laborator cu analize, prelevare probe și calibrare echipamente, potrivit pentru absolvenți de biologie/chimie la nivel entry-level."
-  },
-  {
-    "url": "https://www.medlife.ro/cariere/job-apply/14233",
-    "title": "Biolog",
-    "company": "MED LIFE SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:06:55.275Z",
-    "status": "scraped",
-    "tags": [
-      "microscopie optică",
-      "analize biologice"
-    ],
-    "matchPercentage": 75,
-    "reason": "Titlul de biolog în cadrul MedLife indică activitate de laborator, deși fișa postului este generică."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
-    "title": "Tehnician Laborator Microbiologie",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:24.546Z",
-    "status": "scraped",
-    "tags": [
-      "laborator biologic",
-      "microscopie optică"
-    ],
-    "matchPercentage": 74,
-    "reason": "Tehnician laborator microbiologie folosește direct competențe de laborator și analiză biologică."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
-    "title": "Laborant Microbiologie",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:24.546Z",
-    "status": "scraped",
-    "tags": [
-      "laborator biologic",
-      "analiză probe"
-    ],
-    "matchPercentage": 74,
-    "reason": "Laborant microbiologie presupune tehnici de laborator și analiză de probe, potrivit pentru absolvent."
-  },
-  {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
-    "title": "Biolog/ Biochimist: dep. Microbiologie",
-    "company": "SYNEVO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-23T11:00:07.868Z",
-    "status": "scraped",
-    "tags": [
-      "microscopie optică",
-      "analize biologice"
-    ],
-    "matchPercentage": 72,
-    "reason": "Activitate în laboratorul de microbiologie, parțial acoperită de competențele de microscopie și analiză biologică."
+    "matchPercentage": 90,
+    "reason": "Direct legat de bacteriologie de laborator"
   },
   {
     "url": "https://www.leohr.ro/jobs/analist-microbiologie-responsabil-de-incercare/58/",
@@ -245,47 +137,101 @@
     "date": "2026-10-17T12:05:24.546Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analiză probe"
+      "microbiologie",
+      "analiză"
     ],
-    "matchPercentage": 70,
-    "reason": "Analist microbiologie implică lucru în laborator și analiză de probe biologice, potrivit nivelului de entry."
+    "matchPercentage": 90,
+    "reason": "Activități directe de analiză microbiologică în laborator."
   },
   {
-    "url": "https://multijobs.ro/job/tehnician-analist-chimie-recrutam-pentru-clientul-nostru/2671",
-    "title": "Tehnician/Analist Chimie – Recrutăm pentru Clientul nostru",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
+    "title": "Tehnician Laborator Microbiologie",
+    "company": "LEOHR S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:07:07.123Z",
+    "date": "2026-10-17T12:05:24.546Z",
     "status": "scraped",
     "tags": [
-      "laborator chimie",
-      "analiză chimică"
+      "microbiologie",
+      "microscopie"
     ],
-    "matchPercentage": 68,
-    "reason": "Tehnician/analist chimie valorifică competențele de laborator de chimie generală și organică."
+    "matchPercentage": 90,
+    "reason": "Pozitie de tehnician de laborator potrivită pentru analize microbiologice."
   },
   {
-    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-dep-anatomie-patologica/",
-    "title": "Asistent medical de laborator",
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
+    "title": "Biolog/ Biochimist/ Chimist",
     "company": "SYNEVO ROMANIA SRL",
     "location": [
       "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:00:07.868Z",
+    "date": "2026-10-24T10:16:59.216Z",
     "status": "scraped",
     "tags": [
-      "histologie",
-      "microscopie optică"
+      "biochimie",
+      "laborator"
     ],
-    "matchPercentage": 65,
-    "reason": "Laborator de histopatologie, folosește direct tehnicile de histologie și microscopie, deși cere calificare de asistent medical."
+    "matchPercentage": 85,
+    "reason": "Se potrivește analizelor biologice și biochimice"
+  },
+  {
+    "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
+    "title": "Biolog -Chimist / Laborator Analize",
+    "company": "ELYTIS HOSPITAL HOPE SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:55.318Z",
+    "status": "scraped",
+    "tags": [
+      "laborator",
+      "analize"
+    ],
+    "matchPercentage": 85,
+    "reason": "Activitate în laborator de analize biologice"
+  },
+  {
+    "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
+    "title": "Biolog Chimist/ Biochimist",
+    "company": "ELYTIS HOSPITAL SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:44.649Z",
+    "status": "scraped",
+    "tags": [
+      "biochimie",
+      "laborator"
+    ],
+    "matchPercentage": 85,
+    "reason": "Potrivit pentru biolog/biochimist debutant"
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
+    "title": "Laborant Microbiologie",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:24.546Z",
+    "status": "scraped",
+    "tags": [
+      "microbiologie",
+      "analiză"
+    ],
+    "matchPercentage": 85,
+    "reason": "Lucru de laborator în domeniul microbiologiei, nivel entry-level."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3409979",
@@ -299,28 +245,82 @@
     "date": "2026-10-17T12:17:56.912Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analize biologice"
+      "laborator",
+      "analize"
     ],
-    "matchPercentage": 62,
-    "reason": "Titlul de biolog într-un centru medical sugerează activitate de laborator, dar sarcinile nu sunt detaliate."
+    "matchPercentage": 80,
+    "reason": "Domeniu medical relevant, nivel adecvat"
   },
   {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-consultant-de-specialitate-in-cercetare/",
-    "title": "Consultant de specialitate în cercetare",
-    "company": "STARCKROM TEHNOLOGII SRL",
+    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-dep-anatomie-patologica/",
+    "title": "Asistent medical de laborator",
+    "company": "SYNEVO ROMANIA SRL",
     "location": [
-      "Bucuresti",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:14:28.136Z",
+    "date": "2026-10-24T10:16:59.216Z",
     "status": "scraped",
     "tags": [
-      "biologie vegetală",
-      "ecologie"
+      "microscopie",
+      "laborator"
     ],
-    "matchPercentage": 62,
-    "reason": "Cercetare aplicată în agricultură/horticultură cu interpretare de date, parțial relevantă pentru biologie vegetală și nivel de student."
+    "matchPercentage": 80,
+    "reason": "Activitatea de asistent de laborator este direct relevantă pentru competențele tale tehnice."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
+    "title": "Tehnician Laborator",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "analize de laborator",
+      "chimie"
+    ],
+    "matchPercentage": 75,
+    "reason": "Tehnicianul de laborator efectueaza analize fizico-chimice pe materii prime si produse, folosind direct competentele de laborator de chimie si biologie."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-recoltare-probe/",
+    "title": "Asistent medical generalist: recoltare probe",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:16:59.216Z",
+    "status": "scraped",
+    "tags": [
+      "recoltare",
+      "probe"
+    ],
+    "matchPercentage": 70,
+    "reason": "Recoltarea probelor biologice utilizează direct lucrul cu material biologic."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:26.529Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "analize chimice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analistul de control al calitatii efectueaza analize si calibreaza echipamente in laborator, activitate partial compatibila cu competentele de analiza chimica."
   }
 ]
