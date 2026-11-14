@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "url": "https://www.medlife.ro/cariere/job-apply/9190",
+    "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
+    "company": "MED LIFE SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:00:03.181Z",
+    "status": "scraped",
+    "tags": [
+      "biochimie",
+      "analiză biologică"
+    ],
+    "matchPercentage": 85,
+    "reason": "Post de biolog/biochimist în laborator de pediatrie, folosind direct competențele de biochimie și analiză biologică."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
+    "title": "Biolog/ Biochimist/ Chimist",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:54:58.604Z",
+    "status": "scraped",
+    "tags": [
+      "lucru în laborator",
+      "biochimie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Post pentru debutanți în departamentul de chimie, valorificând competențele de laborator de chimie și biochimie."
+  },
+  {
+    "url": "https://www.medlife.ro/cariere/job-apply/14233",
+    "title": "Biolog",
+    "company": "MED LIFE SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:00:03.181Z",
+    "status": "scraped",
+    "tags": [
+      "analiză biologică",
+      "instrumente laborator"
+    ],
+    "matchPercentage": 80,
+    "reason": "Post de biolog într-un laborator medical, cu analiză de probe biologice și utilizarea instrumentelor de laborator, potrivit nivelului de absolvent."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
+    "title": "Biolog/ Biochimist: dep. Microbiologie",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:54:58.604Z",
+    "status": "scraped",
+    "tags": [
+      "analiză biologică",
+      "instrumente laborator"
+    ],
+    "matchPercentage": 80,
+    "reason": "Post de biolog/biochimist în microbiologie, cu muncă de laborator și analiză de probe, parțial relevant pentru competențele tale."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-imunologie/",
+    "title": "Biolog/ Biochimist: dep. Imunologie",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:54:58.604Z",
+    "status": "scraped",
+    "tags": [
+      "analiză biologică",
+      "biochimie"
+    ],
+    "matchPercentage": 78,
+    "reason": "Post de biolog/biochimist în imunologie, cu activitate de laborator relevantă, dar specializarea imunologică e doar parțial acoperită."
+  },
+  {
+    "url": "https://www.medlife.ro/cariere/job-apply/9936",
+    "title": "Biolog - Imunologie - Laborator Grivita",
+    "company": "MED LIFE SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:00:03.181Z",
+    "status": "scraped",
+    "tags": [
+      "analiză biologică",
+      "microscopie optică"
+    ],
+    "matchPercentage": 75,
+    "reason": "Laborator de imunologie cu activitate de analiză biologică, domeniu apropiat de competențele de laborator, deși imunologia nu e studiată explicit."
+  }
+]
