@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
-    "title": "Biolog/ Biochimist/ Chimist",
-    "company": "SYNEVO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T12:57:32.580Z",
-    "status": "scraped",
-    "tags": [
-      "laborator chimie",
-      "analiză biochimică"
-    ],
-    "matchPercentage": 90,
-    "reason": "Departamentul de chimie primește debutanți și folosește direct cunoștințele de chimie și analiză de laborator."
-  },
-  {
     "url": "https://www.medlife.ro/cariere/job-apply/9190",
     "title": "Biolog, biochimist - Laborator Spitalul de Pediatrie",
     "company": "MED LIFE SA",
@@ -26,32 +8,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T08:12:49.518Z",
+    "date": "2026-11-15T13:30:16.221Z",
     "status": "scraped",
     "tags": [
-      "reacții biochimice",
-      "probe biologice"
+      "biochimie",
+      "analize de laborator"
     ],
     "matchPercentage": 85,
-    "reason": "Postul de biolog/biochimist într-un laborator de pediatrie este direct în analiza biologică și biochimică."
+    "reason": "Post de biolog/biochimist în laborator spitalicesc, cu aplicare directă a competențelor de biochimie și analiză biologică."
   },
   {
-    "url": "https://www.medlife.ro/cariere/job-apply/14233",
-    "title": "Biolog",
-    "company": "MED LIFE SA",
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-oradea-synevo/",
+    "title": "Biolog/ Biochimist/ Chimist",
+    "company": "SYNEVO ROMANIA SRL",
     "location": [
-      "Bucuresti",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T08:12:49.518Z",
+    "date": "2026-11-15T13:26:25.654Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "analiză citologică"
+      "chimie",
+      "biochimie"
     ],
-    "matchPercentage": 82,
-    "reason": "Postul de biolog la MedLife presupune lucrul cu probe biologice în laborator, compatibil cu microscopia și analiza citologică."
+    "matchPercentage": 78,
+    "reason": "Post entry-level în departamentul de chimie, relevant pentru competențele de chimie generală, organică și biochimie."
   },
   {
     "url": "https://www.medlife.ro/cariere/job-apply/9936",
@@ -62,14 +44,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T08:12:49.518Z",
+    "date": "2026-11-15T13:30:16.221Z",
     "status": "scraped",
     "tags": [
-      "reacții biochimice",
+      "analize biologice",
       "microscopie optică"
     ],
-    "matchPercentage": 76,
-    "reason": "Laboratorul de imunologie implică analize biologice și biochimice, parțial acoperite de pregătirea ta de laborator."
+    "matchPercentage": 68,
+    "reason": "Post de biolog într-un laborator de imunologie, cu nivel adecvat și utilizare parțială a competențelor de analiză biologică."
   },
   {
     "url": "https://www.synevo.ro/cariere/biolog-biochimist-imunologie/",
@@ -80,14 +62,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T12:57:32.580Z",
+    "date": "2026-11-15T13:26:25.654Z",
     "status": "scraped",
     "tags": [
-      "reacții biochimice",
-      "microscopie optică"
+      "analize biologice",
+      "biochimie"
     ],
-    "matchPercentage": 76,
-    "reason": "Departamentul de imunologie oferă un rol de debutant în analize biologice, cu potrivire parțială pe partea de laborator."
+    "matchPercentage": 67,
+    "reason": "Post entry-level de biolog/biochimist în imunologie, cu potrivire parțială prin competențele de laborator biologic."
   },
   {
     "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
@@ -98,13 +80,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T12:57:32.580Z",
+    "date": "2026-11-15T13:26:25.654Z",
     "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "probe biologice"
+      "analize de laborator",
+      "microscopie optică"
     ],
-    "matchPercentage": 66,
-    "reason": "Rolul de microbiologie este adiacent pregătirii tale, dar folosește laboratorul și microscopia pentru probe biologice."
+    "matchPercentage": 64,
+    "reason": "Post entry-level în microbiologie, parțial relevant prin tehnicile de laborator și microscopie, deși microbiologia nu este competență explicită."
   }
 ]
