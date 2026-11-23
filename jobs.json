@@ -1,57 +1,39 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437176",
-    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA IRCEM",
+    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-dep-anatomie-patologica/",
+    "title": "Asistent medical de laborator",
+    "company": "SYNEVO ROMANIA SRL",
     "location": [
-      "CLUJ-NAPOCA",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
+    "date": "2026-11-22T14:02:03.307Z",
+    "status": "scraped",
     "tags": [
-      "colectare conservare",
-      "documentație teren"
+      "histologie",
+      "microscopie"
     ],
-    "matchPercentage": 88,
-    "reason": "Cercetare în ecologie și biodiversitate cu colectarea și analiza datelor de mediu, fără experiență anterioară, perfect aliniată competențelor mele."
+    "matchPercentage": 85,
+    "reason": "Asistentul de laborator în histopatologie folosește direct microscopia și tehnicile de histologie animală."
   },
   {
-    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
-    "title": "Tehnician Laborator Microbiologie",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-recoltare-probe/",
+    "title": "Asistent medical generalist: recoltare probe",
+    "company": "SYNEVO ROMANIA SRL",
     "location": [
-      "Bucuresti",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:39:26Z",
-    "status": "tested",
+    "date": "2026-11-22T14:02:03.307Z",
+    "status": "scraped",
     "tags": [
-      "microscopie optică",
-      "instrumente laborator"
+      "colectare probe",
+      "laborator"
     ],
-    "matchPercentage": 82,
-    "reason": "Tehnicianul de laborator microbiologie folosește direct analiza probelor biologice și instrumentele de laborator, la nivel de început de carieră."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/analist-microbiologie-responsabil-de-incercare/58/",
-    "title": "Analist Microbiologie / Responsabil de incercare",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:39:26Z",
-    "status": "tested",
-    "tags": [
-      "microscopie optică",
-      "instrumente laborator"
-    ],
-    "matchPercentage": 82,
-    "reason": "Analistul de microbiologie desfășoară testări în laborator folosind microscopia și instrumentele de analiză biologică, la nivel junior."
+    "matchPercentage": 72,
+    "reason": "Recoltarea probelor biologice corespunde competenței de colectare și conservare a materialului biologic într-un laborator de analize."
   },
   {
     "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
@@ -65,46 +47,46 @@
     "date": "2026-11-17T14:39:26Z",
     "status": "tested",
     "tags": [
-      "microscopie optică",
-      "instrumente laborator"
-    ],
-    "matchPercentage": 80,
-    "reason": "Post de laborant în microbiologie care folosește microscopia și instrumentele de laborator, nivel entry-level potrivit pentru un absolvent."
-  },
-  {
-    "url": "https://bioclinica.ro/compania/cariere/asistent-medical-de-laborator-bucuresti",
-    "title": "Asistent medical de laborator",
-    "company": "BIOCLINICA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:22:15Z",
-    "status": "tested",
-    "tags": [
-      "instrumente laborator",
-      "microscopie optică"
+      "laborator",
+      "analiză citologică"
     ],
     "matchPercentage": 72,
-    "reason": "Asistentul de laborator lucrează direct cu probe biologice și instrumente de analiză într-un laborator de analize biologice, rol entry-level."
+    "reason": "Poziția de laborant în microbiologie se potrivește cu competențele de laborator și analiză biologică, deși descrierea jobului este generică."
   },
   {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "url": "https://www.leohr.ro/jobs/analist-microbiologie-responsabil-de-incercare/58/",
+    "title": "Analist Microbiologie / Responsabil de incercare",
+    "company": "LEOHR S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:52:40Z",
+    "date": "2026-11-17T14:39:26Z",
     "status": "tested",
     "tags": [
-      "documentație teren",
-      "rapoarte lucru"
+      "laborator",
+      "microscopie"
     ],
-    "matchPercentage": 72,
-    "reason": "Institut de cercetare în protecția mediului, domeniu apropiat de ecologie, cu gradul ACS accesibil absolvenților, deși lista include și grade superioare."
+    "matchPercentage": 68,
+    "reason": "Rolul de analist microbiologie este relevant pentru laboratorul de analize biologice, dar descrierea este incompletă și nivelul nu este clar specificat."
+  },
+  {
+    "url": "https://www.medlife.ro/cariere/job-apply/13578",
+    "title": "Asistent medical generalist - Triere Probe - Laborator Grivita",
+    "company": "MED LIFE SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:09:00.446Z",
+    "status": "scraped",
+    "tags": [
+      "material biologic",
+      "laborator"
+    ],
+    "matchPercentage": 65,
+    "reason": "Trierea probelor în laborator folosește competențe de manipulare a materialului biologic, la nivel de asistent."
   }
 ]
