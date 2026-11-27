@@ -8,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:47:27.774Z",
+    "date": "2026-11-26T16:22:35.739Z",
     "status": "scraped",
     "tags": [
-      "chimie generală",
-      "chimie organică"
+      "chimie",
+      "biochimie"
     ],
-    "matchPercentage": 92,
-    "reason": "Synevo angajează explicit debutanți și specialiști în departamentul de chimie, potrivind perfect competențele de laborator chimic și biochimic."
+    "matchPercentage": 95,
+    "reason": "Synevo acceptă explicit debutanti și specialiști în departamentul de chimie, ceea ce corespunde competențelor de chimie și biochimie."
   },
   {
     "url": "https://elytis-hospital.ro/cariere/biolog-chimist-biochimist/",
@@ -29,29 +29,11 @@
     "date": "2026-11-17T13:52:47Z",
     "status": "tested",
     "tags": [
-      "reacții biochimice",
-      "instrumente laborator"
+      "biochimie",
+      "laborator"
     ],
-    "matchPercentage": 92,
-    "reason": "Postul acceptă absolvenți fără experiență anterioară și implică efectuarea și interpretarea analizelor medicale conform procedurilor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3442281",
-    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA IRCEM",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "ecologie",
-      "mediu"
-    ],
-    "matchPercentage": 92,
-    "reason": "Cercetător în ecologie și protecția mediului, potrivire directă cu competențele de ecologie și analiză de mediu."
+    "matchPercentage": 95,
+    "reason": "Anunțul încurajează absolvenții să înceapă cariera în analize medicale și precizează că experiența anterioară nu este obligatorie."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3437176",
@@ -65,29 +47,11 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "ecologie",
-      "biodiversitate"
+      "colectare material",
+      "documentație teren"
     ],
     "matchPercentage": 92,
-    "reason": "Cercetător în ecologie și biodiversitate, potrivire directă cu competențele de ecologie și monitorizare de mediu."
-  },
-  {
-    "url": "https://www.medlife.ro/cariere/job-apply/9936",
-    "title": "Biolog - Imunologie - Laborator Grivita",
-    "company": "MED LIFE SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:52:39.524Z",
-    "status": "scraped",
-    "tags": [
-      "analiză citologică",
-      "reacții biochimice"
-    ],
-    "matchPercentage": 88,
-    "reason": "Poziția de biolog în laboratorul de imunologie Grivița folosește direct analizele biologice și interpretarea reacțiilor biochimice, fără cerințe de senioritate."
+    "reason": "Cercetare directă în ecologie și biodiversitate, cu monitorizarea factorilor de mediu și analiza datelor, fără experiență anterioară."
   },
   {
     "url": "https://www.medlife.ro/cariere/job-apply/9190",
@@ -98,14 +62,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:52:39.524Z",
+    "date": "2026-11-26T16:29:49.032Z",
     "status": "scraped",
     "tags": [
-      "reacții biochimice",
-      "instrumente laborator"
+      "biochimie",
+      "chimie"
     ],
-    "matchPercentage": 88,
-    "reason": "Rolul de biolog-biochimist în laboratorul spitalului de pediatrie corespunde analizelor de laborator și competențelor de biochimie."
+    "matchPercentage": 90,
+    "reason": "Rolul de biolog/biochimist în laboratorul spitalului de pediatrie folosește direct chimia și biochimia, fără cerințe de nivel senior."
   },
   {
     "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist-timisoara",
@@ -119,29 +83,11 @@
     "date": "2026-11-17T14:22:15Z",
     "status": "tested",
     "tags": [
-      "reacții biochimice",
-      "analiză citologică"
+      "chimie",
+      "biochimie"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziția de biolog, chimist sau biochimist în laboratoarele Bioclinica folosește direct competențele de analiză biologică și chimică."
-  },
-  {
-    "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist",
-    "title": "Biolog/Chimist/Biochimist",
-    "company": "BIOCLINICA SRL",
-    "location": [
-      "Târgu Jiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:37:32Z",
-    "status": "tested",
-    "tags": [
-      "reacții biochimice",
-      "chimie organică"
-    ],
-    "matchPercentage": 88,
-    "reason": "Rolul de biolog, chimist sau biochimist la Bioclinica Târgu Jiu vizează analize de laborator, fără indicarea unui nivel senior."
+    "matchPercentage": 90,
+    "reason": "Postul de biolog/chimist/biochimist din laboratoarele Bioclinica vizează analize biologice și chimice, fără restricție de senioritate."
   },
   {
     "url": "https://multijobs.ro/job/biolog-chimist-laborator-analize/2206",
@@ -155,65 +101,29 @@
     "date": "2026-11-17T13:13:36Z",
     "status": "tested",
     "tags": [
-      "analiză citologică",
-      "reacții biochimice"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția de biolog-chimist în laboratorul de analize Elytis Hope se încadrează direct în analizele biologice și chimice de laborator."
-  },
-  {
-    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-dep-anatomie-patologica/",
-    "title": "Asistent medical de laborator",
-    "company": "SYNEVO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:47:27.774Z",
-    "status": "scraped",
-    "tags": [
-      "histologie",
+      "biochimie",
       "microscopie"
     ],
-    "matchPercentage": 85,
-    "reason": "Asistent de laborator în histopatologie folosește direct histologia animală, microscopia și analiza citologică, la nivel entry-level."
+    "matchPercentage": 90,
+    "reason": "Laboratorul de analize Elytis Hope oferă un post de biolog chimist/biochimist potrivit competențelor de analiză a probelor biologice."
   },
   {
-    "url": "https://www.leohr.ro/jobs/tehnician-laborator-microbiologie/57/",
-    "title": "Tehnician Laborator Microbiologie",
-    "company": "LEOHR S.R.L.",
+    "url": "https://bioclinica.ro/compania/cariere/biolog-chimist-biochimist",
+    "title": "Biolog/Chimist/Biochimist",
+    "company": "BIOCLINICA SRL",
     "location": [
-      "Bucuresti",
+      "Târgu Jiu",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:39:26Z",
+    "date": "2026-11-17T11:37:32Z",
     "status": "tested",
     "tags": [
-      "microbiologie",
-      "laborator"
+      "chimie",
+      "biochimie"
     ],
-    "matchPercentage": 85,
-    "reason": "Tehnician în laborator de microbiologie, potrivit competențelor de analiză biologică și lucru de laborator."
-  },
-  {
-    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
-    "title": "Biolog/ Biochimist: dep. Microbiologie",
-    "company": "SYNEVO ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:47:27.774Z",
-    "status": "scraped",
-    "tags": [
-      "microscopie optică",
-      "analiză citologică"
-    ],
-    "matchPercentage": 82,
-    "reason": "Departamentul de microbiologie vizează analiza probelor biologice, deși descrierea insiste mai mult pe acreditare și managementul calității."
+    "matchPercentage": 90,
+    "reason": "Același rol de biolog/chimist/biochimist la Bioclinica, de data aceasta la Târgu Jiu, se potrivește direct cu analizele de laborator."
   },
   {
     "url": "https://bioclinica.ro/compania/cariere/asistent-medical-de-laborator-bucuresti",
@@ -227,29 +137,47 @@
     "date": "2026-11-17T14:22:15Z",
     "status": "tested",
     "tags": [
-      "laborator",
+      "instrumente laborator",
       "analize biologice"
     ],
-    "matchPercentage": 82,
-    "reason": "Asistent medical de laborator, relevant pentru competențele de analiză biologică și lucru în laborator."
+    "matchPercentage": 88,
+    "reason": "Asistent în laborator medical de analize biologice, nivel entry-level, potrivit competențelor de laborator."
   },
   {
-    "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
-    "title": "Laborant Microbiologie",
-    "company": "LEOHR S.R.L.",
+    "url": "https://www.medlife.ro/cariere/job-apply/9936",
+    "title": "Biolog - Imunologie - Laborator Grivita",
+    "company": "MED LIFE SA",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:39:26Z",
-    "status": "tested",
+    "date": "2026-11-26T16:29:49.032Z",
+    "status": "scraped",
+    "tags": [
+      "citologie",
+      "biochimie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Biologul în laboratorul de imunologie analizează probe biologice și interpretează reacții biochimice, iar postul nu impune experiență îndelungată."
+  },
+  {
+    "url": "https://www.synevo.ro/cariere/biolog-biochimist-microbiologie/",
+    "title": "Biolog/ Biochimist: dep. Microbiologie",
+    "company": "SYNEVO ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:22:35.739Z",
+    "status": "scraped",
     "tags": [
       "microscopie",
-      "instrumente laborator"
+      "conservare"
     ],
-    "matchPercentage": 78,
-    "reason": "Rolul de laborant în microbiologie este entry-level și folosește direct microscopia și instrumentarul de laborator."
+    "matchPercentage": 85,
+    "reason": "Munca în departamentul de microbiologie Synevo implică prelucrarea probelor și respectarea procedurilor de laborator, la nivel de începător."
   },
   {
     "url": "https://www.medlife.ro/cariere/job-apply/14233",
@@ -260,49 +188,49 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:52:39.524Z",
+    "date": "2026-11-26T16:29:49.032Z",
     "status": "scraped",
     "tags": [
-      "analiză citologică",
-      "reacții biochimice"
+      "microscopie",
+      "laborator"
     ],
-    "matchPercentage": 70,
-    "reason": "Titlul de biolog la o rețea de laboratoare medicale indică analize biologice, dar descrierea generică nu detaliază sarcinile tehnice."
+    "matchPercentage": 80,
+    "reason": "Titlul de biolog la MedLife indică lucrul în laborator de analize biologice, iar anunțul nu menționează cerințe de senioritate."
   },
   {
-    "url": "https://www.medlife.ro/cariere/job-apply/13578",
-    "title": "Asistent medical generalist - Triere Probe - Laborator Grivita",
-    "company": "MED LIFE SA",
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/biolog-laborator-stem",
+    "title": "Biolog - Laborator Stem",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:52:39.524Z",
-    "status": "scraped",
+    "date": "2026-11-17T13:04:01Z",
+    "status": "tested",
     "tags": [
-      "colectare",
-      "conservare"
+      "conservare",
+      "rapoarte"
     ],
-    "matchPercentage": 68,
-    "reason": "Trierea probelor într-un laborator folosește parțial competențele de manipulare și conservare a materialului biologic, într-un rol de asistent."
+    "matchPercentage": 80,
+    "reason": "Biologul din banca de celule stem procesează și conservă probe, întocmește rapoarte, iar cerința de minimum 6 luni este entry-level."
   },
   {
-    "url": "https://www.synevo.ro/cariere/asistent-medical-generalist-recoltare-probe/",
-    "title": "Asistent medical generalist: recoltare probe",
-    "company": "SYNEVO ROMANIA SRL",
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/registrator-medical-laborator-1",
+    "title": "Registrator Medical Laborator",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
     "location": [
-      "București",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:47:27.774Z",
-    "status": "scraped",
+    "date": "2026-11-17T14:27:26Z",
+    "status": "tested",
     "tags": [
-      "colectare",
-      "conservare"
+      "material biologic",
+      "instrumente laborator"
     ],
     "matchPercentage": 65,
-    "reason": "Recoltarea probelor biologice se suprapune parțial peste competența de colectare a materialului biologic, într-un rol de asistent."
+    "reason": "Rol entry-level într-o bancă de celule stem cu sortarea și procesarea probelor biologice, deși sarcinile sunt în mare parte administrative."
   }
 ]
